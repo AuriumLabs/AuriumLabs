@@ -1,6 +1,6 @@
 # Welcome to Aurium Labs!
 
-![Aurium Labs Logo](https://your-logo-url.com/logo.png) <!-- Replace with your actual logo URL -->
+![Aurium Labs Logo]([https://your-logo-url.com/logo.png](https://www.auriumlabs.com/static/img/Auriumlabs%20Logo.png)) <!-- Replace with your actual logo URL -->
 
 ## About Aurium Labs
 
